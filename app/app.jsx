@@ -9,6 +9,6 @@ $(document).foundation();
 require('style!css!sass!applicationStyles')
 
 ReactDOM.render(
-					<p>BiolerPlate 3</p>,
+					<p>Bilrens</p>,
 					document.getElementById('app')
 				);
